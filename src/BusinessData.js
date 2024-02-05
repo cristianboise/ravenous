@@ -1,5 +1,5 @@
 const business = {
-    imageSrc: '/grisgrislogo.jpg',
+    src: '/grisgrislogo.jpg',
     name: 'Gris-Gris',
     address: '1800 Magazine Street',
     city: 'New Orleans',
