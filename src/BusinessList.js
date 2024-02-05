@@ -10,3 +10,4 @@ function BusinessList({ businesses }) {
   );
 }
 
+export default BusinessList;
