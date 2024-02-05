@@ -11,11 +11,8 @@ function Business() {
             <p className='zipcode'>zipcode: </p>
             <p className='category'>category: </p>
             <p className='rating'>rating: </p>
-            <p className='reviews'>review count: </p>
+            <p className='reviewCount'>review count: </p>
       </div>
-
-        </div>
-
     );
 }
 
